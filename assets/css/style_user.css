@@ -1,0 +1,35 @@
+/* mobile */
+.py-5 {
+    margin-top: 40px;
+}
+
+.display-4 {
+    font-size: 40px;
+}
+
+.navbar {
+    margin-top: 10px;
+}
+
+.nav-link {
+    color: black !important;
+    margin-right: 30px;
+}
+
+
+/* desktop */
+@media (min-width: 992px) { 
+    .display-4 {
+    font-size: 60px;
+}
+
+    .t1 {
+        margin-top: 30px;
+    }
+
+    .tbody{
+        text-transform: capitalize;  
+    }
+
+    
+}
